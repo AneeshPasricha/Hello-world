@@ -2,4 +2,4 @@
 First repository
 
 
-This is my first attenmpt with this website
+This is my first attempt with this website
